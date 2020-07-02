@@ -2,8 +2,12 @@
 # Tommy Swimmer, Undergraduate Engineering Student
 # Fort Lewis College, 07/01/20
 
+# Importing libraries
 import tensorflow as tf
 import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
 
-print('did this work?') # this worked when in activated the environment.
+# Load the data
+
 
