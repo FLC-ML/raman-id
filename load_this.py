@@ -5,5 +5,5 @@
 import tensorflow as tf
 import numpy as np
 
-tf.enable_eager_execution()
+print('did this work?') # this worked when i activated the environment.
 
