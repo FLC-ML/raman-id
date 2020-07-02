@@ -5,5 +5,5 @@
 import tensorflow as tf
 import numpy as np
 
-print('did this work?') # this worked when i activated the environment.
+print('did this work?') # this worked when in activated the environment.
 
