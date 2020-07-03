@@ -1,4 +1,4 @@
-# Universal dataloader to load .npy and .csv files.
+# Time Series Classification using LSTM/RNN
 # Tommy Swimmer, Undergraduate Engineering Student
 # Fort Lewis College, 07/01/20
 
