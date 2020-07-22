@@ -12,3 +12,6 @@ Data from: <a href="https://www.dropbox.com/sh/gmgduvzyl5tken6/AABtSWXWPjoUBkKyC
 <a href="http://alexlenail.me/NN-SVG/LeNet.html">NN-SVG<a/> <br />
 <a href="https://github.com/HarisIqbal88/PlotNeuralNet">PlotNeuralNet<a/> <br />
 
+*Saved for later:* <br/>
+spc to csv converter (still to be tested): https://github.com/likulogy/spc2csv
+
