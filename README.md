@@ -4,6 +4,8 @@ Purpose: Creation of a CNN using ResNet architecture to identify bacterial isola
 
 ![Optional Text](../master/images/fortlewiscollege.jpg)
 
+<img src="https://github.com/FLC-ML/raman-id/blob/master/images/fortlewiscollege.jpg" align="right" style="height: 64px"/>
+
 Sources: 
 <a href="https://www.nature.com/articles/s41467-019-12898-9#Bib1">Stanford Article<a/> <br />
 
