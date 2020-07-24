@@ -29,7 +29,8 @@ stuff
 
 ### Other:
 *Saved for later:* <br/>
-spc to csv converter (still to be tested): https://github.com/likulogy/spc2csv
+spc to csv converter (still to be tested): https://github.com/likulogy/spc2csv <br />
+spc to Numpy converter (still to be tested): https://github.com/rohanisaac/spc
 ### Change Logs:
 stuff
 ### Markdown Notes
